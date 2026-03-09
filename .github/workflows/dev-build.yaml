@@ -8,7 +8,7 @@ on:
 
 env:
   IMG_REGISTRY_HOST: quay.io
-  IMG_REGISTRY_ORG: kuadrant
+  IMG_REGISTRY_ORG: eastizle
   IMG_REGISTRY_REPO: console-plugin
 
 jobs:
